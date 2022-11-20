@@ -1,7 +1,9 @@
 ### Welcome friend 👋
 
 Here you will find, docs, write-ups, and other projects...
+
 from a long-time hacker, who started in the eighties, 
+
 hacking hardware, low-level stuff, with a preference for binary exploitation.
 
 You can contact me on discord --> nobodyisnobody#5709
