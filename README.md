@@ -10,6 +10,10 @@ if you want to ask questions or discuss, or propose me a job
 
 📫 You can contact me on discord --> nobodyisnobody#5709
 
+you find my work usefull? well you can tip me here to support it.. I will drink to you ! (probably not coffee) 
+
+<a href="https://www.buymeacoffee.com/nobodyisnobody"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer friend&emoji=🍺&slug=nobodyisnobody&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
 *nobodyisnobody, still hacking....*
 
 ---
