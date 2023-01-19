@@ -247,6 +247,10 @@ or alone to practice..(Team --> Armitage)
     > *then overwrite exit got entry with _start, then overwrite atoi with printf for leaks*<br>
     > *then overwrite atoi() with system() for code execution*<br>
 
+  - **idekCTF 2022** --> relativity
+    * [write-up](https://github.com/nobodyisnobody/write-ups/tree/main/idekCTF.2022/pwn/relativity)
+    > *format string on heap with only two `%n` allowed, need bruteforce...only solve script *<br>
+
 </details>
 
 <details>
@@ -393,6 +397,10 @@ or alone to practice..(Team --> Armitage)
     * [write-up](https://github.com/nobodyisnobody/write-ups/tree/main/Balsn.CTF.2021/pwn/orxw)
     > *interesting challenge where a parent can only write, and a child process can only open and read*<br>
     > *stdin,stdout,stderr are closed, so we use time to extract flag content by testing each char, and blocking when right guess*<br>
+
+  - **RealWorld CTF 2022** --> Shellfind
+    * [quick write-up](https://github.com/nobodyisnobody/write-ups/tree/main/RealWorldCTF.2022/pwn/Shellfind)
+    > *exploiting a 0 day in a DLINK DCS-960L camera, via a buffer overflow in an udp service*<br>
 
 </details>
 
