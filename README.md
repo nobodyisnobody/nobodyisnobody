@@ -18,6 +18,9 @@ if you want to ask questions or discuss, or propose me a job
 * [Modern templates for shellcoding](https://github.com/nobodyisnobody/docs/tree/main/modern.templates.for.shellcoding)
 > python templates for developping, debugging, printing shellcodes
 
+* [Modern templates 2: A sock proxy shellcode ](https://github.com/nobodyisnobody/docs/tree/main/a.socks.proxy.shellcode)
+> a socks proxy shellcode (x64,arm,mips) to pivot on iot, and reach internal network
+
 
 ---
 ## Write-ups INDEX
