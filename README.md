@@ -10,9 +10,6 @@ if you want to ask questions or discuss, or propose me a job
 
 📫 You can contact me on discord --> nobodyisnobody#5709
 
-you find my work usefull? well you can tip me here to support it.. I will drink to you ! (probably not coffee) 
-
-
 *nobodyisnobody, still hacking....*
 
 ---
@@ -403,5 +400,8 @@ or alone to practice..(Team --> Armitage)
     > *exploiting a 0 day in a DLINK DCS-960L camera, via a buffer overflow in an udp service*<br>
 
 </details>
+
+=======
+you find my work usefull? well you can tip me here to support it.. I will drink to you ! (probably not coffee) 
 
 <a href="https://www.buymeacoffee.com/nobodyisnobody"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer amigo&emoji=🍺&slug=nobodyisnobody&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
