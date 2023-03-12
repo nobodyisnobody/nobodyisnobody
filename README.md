@@ -310,6 +310,10 @@ or alone to practice..(Team --> Armitage)
     * [write-up](https://github.com/nobodyisnobody/write-ups/tree/main/nullcon.HackIM.2022/pwn/typical.ROP)
     > *simple riscv gets buffer overflow exploitation challenge*<br>
 
+  - **UTCTF 2023** --> Bing Chilling    (loongarch64)
+    * [write-up](https://github.com/nobodyisnobody/write-ups/tree/main/UTCTF.2023/pwn/Bing.Chilling)
+    > *simple loongarch64 gets buffer overflow exploitation challenge*<br>
+
 </details>
 
 <details>
@@ -358,6 +362,12 @@ or alone to practice..(Team --> Armitage)
     > *escape a brainfuck recompiler, via an oob read/write underflow on heap, then do heap exploitation via brainfuck (crazy)*<br>
     > *then we get code execution by overwriting libc GOT entries of strlen and memcpy, and causing a malloc error*<br>
     > *the malloc error will launch __libc_message() function that will call strlen and memcpy*<br>
+
+  - **UTCTF 2023** --> UTCTF Sandbox
+    * [write-up](https://github.com/nobodyisnobody/write-ups/tree/main/UTCTF.2023/pwn/UTCTF.Sandbox/)
+    > *escape a unicorn sandbox, via vulnerabilities in syscall emulation*<br>
+    > *we exploit first program running in guest, to get code execution via ROP*<br>
+    > *then we exploit syscall emulation vulnerabilities in host loader, to leak host addresses, and execute an execve syscall*<br>
 
 </details>
 
