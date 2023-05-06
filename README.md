@@ -55,6 +55,10 @@ or alone to practice..(Team --> Armitage)
     > *double free in fastbin, then overwrite libc strlen got entry with system() address*<br>
     > *code execution when calling puts() function (that calls strlen...)*<br>
 
+  - **BSides.Algiers.2023** --> just pwnme
+    * [solve script](https://github.com/nobodyisnobody/write-ups/tree/main/BSides.Algiers.2023/pwn/just.pwnme)
+    > *double free in fastbin, then get allocation on environ, leak environ, get allocation on stack, write ROP on stack*<br>
+
 ### libc 2.34
 
   - **MetaCTF 2021** --> hookless
