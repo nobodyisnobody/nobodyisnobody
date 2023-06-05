@@ -27,8 +27,10 @@ if you want to ask questions or discuss, or propose me a job
 > A bash shell oneliner to inject a shellcode into bash process
 
 
-
 ------
+Dans une tentative un peu vaine d'organiser le chaos, de donner une forme toute temporaire à tout ça, 
+voici un index...
+(-----
 
 ## Write-ups INDEX
 
