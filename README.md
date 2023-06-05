@@ -2,9 +2,13 @@
 
 Here you will find, docs, write-ups, and other projects...
 
-from a long-time hacker, who started in the eighties, 
+from a long-time hacker, who started in the eighties.
 
-hacking hardware, low-level stuff, with a preference for binary exploitation.
+you remember eighties maybe ?
+
+![Capture d’écran_2023-06-05_08-26-16](./pics/donkeykong.gif)
+
+always hacking hardware, low-level stuff, with a preference for binary exploitation.
 
 if you want to ask questions or discuss, or propose me a job
 
@@ -463,6 +467,7 @@ or alone to practice..(Team --> Armitage)
     > * but we can pass only 32bits values to functions, and cannot map memory zone in the low 32bits of address space, nor use returned functions results  *<br>
     > * we mmap a shellcode written in a temp file as rwx, and we finally use `on_exit()` libc function to have code execution at exits (very trikcy one..) *<br>
     
+
 </details>
 
 ---
