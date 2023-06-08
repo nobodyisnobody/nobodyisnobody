@@ -171,6 +171,10 @@ or alone to practice..(Team --> Armitage)
     * [write-up](https://github.com/nobodyisnobody/write-ups/tree/main/FCSC.2023/pwn/ktruc)
     > *kernel exploitation on recent ubuntu 5.19 kernel, use write primitive in kernel module, to overwrite modprobe_path*<br>
 
+  - **OffensiveCon 2023** --> Blue Frost Security , bfsmatrix challenge
+    * [write-up](https://github.com/nobodyisnobody/write-ups/tree/main/Blue.Frost.Security.challenges/bfsmatrix)
+    > *kernel exploitation on 6.0.15, an UAF on linked list matrix*<br>
+
 </details>
 
 </details>
