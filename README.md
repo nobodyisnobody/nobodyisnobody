@@ -4,7 +4,9 @@ Here you will find, docs, write-ups, and other projects...
 
 from a long-time hacker, who started in the eighties.
 
-you remember eighties maybe ?
+you remember the eighties maybe ? 
+
+At that time an angry monkey could throw barrels at you.
 
 ![Capture d’écran_2023-06-05_08-26-16](./pics/donkeykong.gif)
 
