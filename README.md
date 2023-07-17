@@ -422,6 +422,11 @@ or alone to practice..(Team --> Armitage)
     > *we exploit first program running in guest, to get code execution via ROP*<br>
     > *then we exploit syscall emulation vulnerabilities in host loader, to leak host addresses, and execute an execve syscall*<br>
 
+  - **zer0pts CTF 2023** --> Brainjit
+    * [write-up](https://github.com/nobodyisnobody/write-ups/tree/main/zer0pts.CTF.2023/pwn/brainjit)
+    > *escape from a JIT brainfuck x86 compiler*<br>
+    > *by exploiting code x86 generation error, then executing a shellcode*<br>
+
 </details>
 
 <details>
