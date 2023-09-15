@@ -427,6 +427,10 @@ or alone to practice..(Team --> Armitage)
     > *escape from a JIT brainfuck x86 compiler*<br>
     > *by exploiting code x86 generation error, then executing a shellcode*<br>
 
+  - **Hitcon Quals 2023** --> Wall Maria
+    * [write-up](https://github.com/nobodyisnobody/write-ups/tree/main/Hitcon.Quals.2023/pwn/Full.Chain.-.Wall.Maria)
+    > *a basic qemu escape challenge, via an oob read/write in a pci qemu driver*<br>
+
 </details>
 
 <details>
