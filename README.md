@@ -32,11 +32,18 @@ if you want to ask questions or discuss, or propose me a job
 
 > A bash shell oneliner to inject a shellcode into bash process
 
+* [Code execution in recent libc with a write primitive](https://github.com/nobodyisnobody/docs/tree/main/code.execution.on.last.libc/) (work in progress...)
+
+> With the removal of the classic memory allocation hooks, 
+> an exploration of the various ways to achieve code execution with a write primitive in last libc,
+
+
 * [Using stdout as a read primitive](https://github.com/nobodyisnobody/docs/tree/main/using.stdout.as.a.read.primitive/)
 
-> An article on the technique of using stdout as a read primitive.
->
+> An article on the technique of using stdout as a read primitive, as a companion to previous article on code execution
 > Focused on the practical aspects of these techniques, providing code examples & macros to reuse in exploits..
+
+
 
 ## Tools INDEX
 
