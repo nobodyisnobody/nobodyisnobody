@@ -32,6 +32,12 @@ if you want to ask questions or discuss, or propose me a job
 
 > A bash shell oneliner to inject a shellcode into bash process
 
+* [Using stdout as a read primitive](https://github.com/nobodyisnobody/docs/tree/main/using.stdout.as.a.read.primitive/)
+
+> An article on the technique of using stdout as a read primitive.
+>
+> Focused on the practical aspects of these techniques, providing code examples & macros to reuse in exploits..
+
 ## Tools INDEX
 
 * [Small Assembly Decompression Stubs](https://github.com/nobodyisnobody/tools/tree/main/Assembly.Decompression.Stubs)
@@ -503,7 +509,7 @@ or alone to practice..(Team --> Armitage)
     * [write-up](https://github.com/nobodyisnobody/write-ups/tree/main/Codegate.CTF.2023.quals/pwn/sea)
     > * interesting challenge, we can aes encrypt and decrypt data, we can overflow aes sboxes to zero them and leak the random key *<br>
     > * some signed and unsigned trick in padding to leak data on stack, and an overflow in encrypt function.. *<br>
-   
+
 
 </details>
 
