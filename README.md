@@ -50,7 +50,10 @@ if you want to ask questions or discuss, or propose me a job
 * [Small Assembly Decompression Stubs](https://github.com/nobodyisnobody/tools/tree/main/Assembly.Decompression.Stubs)
 > Small Assembly decompression stubs for use in shellcode, or embedded systems,  rle, lz4, ZX0, lzma , on various architectures (work in progress)
 
-* [pwn2204, docker for a pwn setup based around bata24 (wonderful gef fork)](https://github.com/nobodyisnobody/tools/tree/main/pwn2204)
+* [pwn2204, docker for a pwn setup based on ubuntu 22.04 and with bata24 gef fork](https://github.com/nobodyisnobody/tools/tree/main/pwn2204)
+> My own current setup for pwn task (userland & kernel) based on bata24 (wonderful) gef fork... (work in progress)
+
+* [pwn2304, docker for a pwn setup based on ubuntu 23.04 and with bata24 gef fork](https://github.com/nobodyisnobody/tools/tree/main/pwn2304)
 > My own current setup for pwn task (userland & kernel) based on bata24 (wonderful) gef fork... (work in progress)
 
 ------
