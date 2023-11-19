@@ -242,7 +242,10 @@ or alone to practice..(Team --> Armitage)
   - **FCSC 2022** --> RPG
     * [write-up](https://github.com/nobodyisnobody/write-ups/tree/main/FCSC.2022/pwn/RPG)
     > *heap overflow in FILE structure, then we use FSOP read/write to overwrite __free_hook*<br>
-    
+
+  - **Blackhat MEA CTF finals** --> devpro
+    * [write-up](https://github.com/nobodyisnobody/write-ups/tree/main/Blackhat.MEA.CTF.Finals.2023/pwn/devpro)
+    > *OOB read/write in FILE structure, then we use FSOP write to overwrite stdout, and we do a FSOP for code execution*<br>
 
 </details>
 
