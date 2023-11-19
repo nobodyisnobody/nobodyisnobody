@@ -284,6 +284,10 @@ or alone to practice..(Team --> Armitage)
     * [write-up](https://github.com/nobodyisnobody/write-ups/tree/main/FCSC.2023/pwn/keskidi)
     > *shellcode where a child leak parent accessible only flag.txt via a random temporary file modified by parent*<br>
 
+  - **Blackhat MEA CTF finals** --> babysbx
+    * [write-up](https://github.com/nobodyisnobody/write-ups/tree/main/Blackhat.MEA.CTF.Finals.2023/pwn/babysbx)
+    > *escaping from a seccomp very restricted shellcode, and remapping a read-only zone for changing only allowed binary*<br>
+
 </details>
 
 <details>
