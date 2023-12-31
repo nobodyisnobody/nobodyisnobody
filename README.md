@@ -43,6 +43,11 @@ if you want to ask questions or discuss, or propose me a job
 > An article on the technique of using stdout as a read primitive, as a companion to previous article on code execution
 > Focused on the practical aspects of these techniques, providing code examples & macros to reuse in exploits..
 
+* [How to create a qemu SYS_BUS device driver](https://github.com/nobodyisnobody/docs/tree/main/How.to.create.a.qemu.SYS_BUS.device.driver)
+
+> An practical guide to how to create a qemu SYS_BUS device drivers in 5 minutes (or less maybe?)
+> With a simple example of a driver for qemu version 8.2.0
+
 
 
 ## Tools INDEX
